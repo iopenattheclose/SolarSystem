@@ -1,1 +1,3 @@
 # SolarSystem
+
+Fun JS project
