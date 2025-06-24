@@ -1,3 +1,3 @@
 # SolarSystem
 
-Fun JS project
+Fun JS project representing solar system
